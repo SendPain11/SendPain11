@@ -20,11 +20,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      # 2. Setup Node.js (Wajib untuk menjalankan npx dengan lancar)
+      # 2. Setup Node.js (UPDATE: Ganti ke versi 20 sesuai request error log)
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version: '20'
 
       # 3. Buat folder dist
       - name: Create dist directory
@@ -39,8 +39,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 5. Generate Pacman (PAKAI CARA BARU: NPX)
-      # Kita bypass action yang rusak dan langsung pakai command line tool-nya
+      # 5. Generate Pacman (via npx)
       - name: Generate Pacman Graph (via npx)
         run: |
           npx pacman-contribution-graph \
@@ -50,7 +49,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 6. Upload (Otomatis mengambil semua isi folder dist)
+      # 6. Upload
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
