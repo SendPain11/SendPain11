@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- - ⚡ Fun fact: I'm a old twinks brother -->
 
 #### Skills
-[![My Skills](https://skillicons.dev/icons?i=anaconda,react,js,html,css,c,cpp,py,go,php,sublime,opencv,nodejs,nextjs,nginx,mysql,mongodb,godot,cs,bootstrap,anaconda,top&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,react,js,html,css,c,cpp,py,go,php,sublime,opencv,nodejs,nextjs,nginx,mysql,mongodb,godot,cs,bootstrap,anaconda,top&perline=11)](https://skillicons.dev)
 
 ##### Artificial Intelligence
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" /> <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
