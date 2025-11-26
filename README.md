@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <!-- - ⚡ Fun fact: I'm a old twinks brother -->
 
 #### Skills
+##### Program and Languange
 [![My Skills](https://skillicons.dev/icons?i=anaconda,react,js,html,css,c,cpp,py,go,php,sublime,opencv,nodejs,nextjs,nginx,mysql,mongodb,godot,cs,bootstrap,anaconda,top&perline=11)](https://skillicons.dev)
 
 ##### Artificial Intelligence
@@ -42,3 +43,5 @@ Here are some ideas to get you started:
 #### Workspace Specs - Workflow Platforms
 <img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" /> <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" />
 
+#### Stats Card
+[![SendPain11's GitHub stats](https://github-readme-stats.vercel.app/api?username=SendPain11)]
