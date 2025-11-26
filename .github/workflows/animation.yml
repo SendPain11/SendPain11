@@ -1,4 +1,4 @@
-name: Generate Animations
+name: Generate Snake
 
 on:
   schedule:
@@ -13,43 +13,18 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
-      # 1. Checkout Repository
       - name: Checkout
         uses: actions/checkout@v3
 
-      # 2. Setup Node.js (UPDATE: Ganti ke versi 20 sesuai request error log)
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '20'
-
-      # 3. Buat folder dist
-      - name: Create dist directory
-        run: mkdir -p dist
-
-      # 4. Generate Snake (Langsung ke folder dist)
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 5. Generate Pacman (via npx)
-      - name: Generate Pacman Graph (via npx)
-        run: |
-          npx pacman-contribution-graph \
-            --username ${{ github.repository_owner }} \
-            --platform github \
-            --output dist/pacman-contribution-graph.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # 6. Upload
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
