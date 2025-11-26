@@ -1,12 +1,34 @@
-![Sendy1](img/github-header-banner.png)
+<!-- ![Sendy1](img/github-header-banner.png) -->
 <!-- ![Sendy2](img/Header%20Twitter%20Holi%20Natal%20Hijau.gif) -->
 ## Hello World I'm Sendy Prismana Nurferian👋
 
-<!--
-**SendPain11/SendPain11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img height="247" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OW9ocDdlaGdrOWppNWtlNTdkcnVsN2gyazNranNkZGVzMHN1NXFvZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NNmJyVWriRDlS/giphy.gif"  />
+</div>
 
-Here are some ideas to get you started:
--->
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/sendy-prismana-nurferian-95a27b213/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/send4622/735020683293360158" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@sendyprismanan-0124" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/sendyprisma_11/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="sendyprisma02@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/6285851503028" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
 
 <!-- 🔭 I’m currently working on **Institute Of Technology Sepuluh Nopember** -->
 
@@ -15,7 +37,7 @@ Here are some ideas to get you started:
 👯 I’m looking to collaborate on Any Companies for WFO or WFH/Remote Work
 <!-- - 💬 Ask me about Programs -->
 
-📫 How to reach me: On My Instagram and Email
+<!-- 📫 How to reach me: On My Instagram and Email -->
 
 😄 Pronouns: Him/Her
 <!-- - ⚡ Fun fact: I'm a old twinks brother -->
@@ -49,3 +71,23 @@ Here are some ideas to get you started:
 #### ⚠️ Workspace Specs - Workflow Platforms
 <img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" /> <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" />
 
+
+###
+
+<br clear="both">
+
+<p align="center">Play Games With Me</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SendPain11/SendPain11/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SendPain11/SendPain11/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SendPain11/SendPain11/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/SendPain11/SendPain11/output/snake.svg" alt="Snake animation" />
+
+###
