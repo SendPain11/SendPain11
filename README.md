@@ -1,5 +1,5 @@
 ![Sendy1](img/github-header-banner.png)
-![Sendy2](img/Header%20Twitter%20Holi%20Natal%20Hijau.gif)
+<!-- ![Sendy2](img/Header%20Twitter%20Holi%20Natal%20Hijau.gif) -->
 ## Hello World I'm Sendy Prismana Nurferian👋
 
 <!--
