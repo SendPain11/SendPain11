@@ -2,9 +2,9 @@
 <!-- ![Sendy2](img/Header%20Twitter%20Holi%20Natal%20Hijau.gif) -->
 ## Hello World I'm Sendy Prismana Nurferian👋
 
-<!-- <div align="center">
+<div align="center">
   <img height="247" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OW9ocDdlaGdrOWppNWtlNTdkcnVsN2gyazNranNkZGVzMHN1NXFvZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NNmJyVWriRDlS/giphy.gif"  />
-</div> -->
+</div>
 
 ###
 
@@ -49,13 +49,13 @@
 <!-- #### 🤖 Artificial Intelligence
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" /> <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> -->
 
-<!-- #### 📊 GitHub Stats:
+#### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SendPain11&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SendPain11&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SendPain11&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 #### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SendPain11&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4) -->
+![](https://github-profile-trophy.vercel.app/?username=SendPain11&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SendPain11&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
@@ -68,25 +68,13 @@
 <!-- #### 🎓 Education
 <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" /> <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" /> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" /> -->
 
-<!-- #### ⚠️ Workspace Specs - Workflow Platforms
-<img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" /> <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" /> -->
+#### ⚠️ Workspace Specs - Workflow Platforms
+<img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" /> <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" />
 
 
 ###
 
 <br clear="both">
-
-<p align="center">Play Games With Me</p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SendPain11/SendPain11/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SendPain11/SendPain11/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SendPain11/SendPain11/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <img src="https://raw.githubusercontent.com/SendPain11/SendPain11/output/snake.svg" alt="Snake animation" />
 
