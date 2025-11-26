@@ -32,14 +32,16 @@
 
 <!-- 🔭 I’m currently working on **Institute Of Technology Sepuluh Nopember** -->
 
-🌱 I’m currently learning **Python, Golang, DevOps**
+<!-- 🌱 I’m currently learning **Python, Golang, DevOps** -->
 
-👯 I’m looking to collaborate on Any Companies for WFO or WFH/Remote Work
+<!-- 👯 I’m looking to collaborate on Any Companies for WFO or WFH/Remote Work -->
+
 <!-- - 💬 Ask me about Programs -->
 
 <!-- 📫 How to reach me: On My Instagram and Email -->
 
-😄 Pronouns: Him/Her
+<!-- 😄 Pronouns: Him/Her -->
+
 <!-- - ⚡ Fun fact: I'm a old twinks brother -->
 
 
@@ -68,8 +70,8 @@
 <!-- #### 🎓 Education
 <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" /> <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" /> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" /> -->
 
-#### ⚠️ Workspace Specs - Workflow Platforms
-<img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" /> <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" />
+<!-- #### ⚠️ Workspace Specs - Workflow Platforms
+<img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" /> <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" /> -->
 
 
 ###
@@ -77,5 +79,19 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/SendPain11/SendPain11/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<p align="center">Play Games With Me</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SendPain11/SendPain11/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SendPain11/SendPain11/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SendPain11/SendPain11/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
