@@ -16,16 +16,22 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # 1. Checkout
+      # 1. Checkout Repository
       - name: Checkout
         uses: actions/checkout@v3
 
-      # 2. Buat folder dist
+      # 2. Setup Node.js (Wajib untuk menjalankan npx dengan lancar)
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      # 3. Buat folder dist
       - name: Create dist directory
         run: mkdir -p dist
 
-      # 3. Generate Snake (Ke folder dist)
-      - name: generate snake.svg
+      # 4. Generate Snake (Langsung ke folder dist)
+      - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -33,35 +39,19 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 4. Generate Pacman (PERBAIKAN: Ditambah env token)
-      - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-        env:
-          # Token ini WAJIB ada di sini agar action bisa ambil data profil
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
-
-      # 5. Debug: Cek file apa saja yang sebenarnya terbentuk
-      - name: List files (Debug)
-        run: ls -R
-
-      # 6. Pindahkan Pacman ke dist
-      - name: Move Pacman to dist
+      # 5. Generate Pacman (PAKAI CARA BARU: NPX)
+      # Kita bypass action yang rusak dan langsung pakai command line tool-nya
+      - name: Generate Pacman Graph (via npx)
         run: |
-          # Cek file dengan nama apapun yang berakhiran .svg selain snake
-          if [ -f "pacman-contribution-graph.svg" ]; then
-            mv pacman-contribution-graph.svg dist/
-            echo "Sukses: File Pacman berhasil dipindahkan."
-          else
-            echo "Error: File Pacman masih tidak ditemukan."
-            echo "Isi folder saat ini:"
-            ls -la
-            exit 1
-          fi
+          npx pacman-contribution-graph \
+            --username ${{ github.repository_owner }} \
+            --platform github \
+            --output dist/pacman-contribution-graph.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 7. Upload ke branch output
-      - name: push to output branch
+      # 6. Upload (Otomatis mengambil semua isi folder dist)
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
