@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on **Institute Of Technology Sepuluh Nopember**
-- 🌱 I’m currently learning **Python, Golang, DevOps**
-- 👯 I’m looking to collaborate on Any Companies for WFO or WFH/Remote Work
-- 💬 Ask me about Programs
-- 📫 How to reach me: On My Instagram and Email
-- 😄 Pronouns: Him/Her
-- ⚡ Fun fact: I'm a old twinks brother
+🌱 I’m currently learning **Python, Golang, DevOps**
+👯 I’m looking to collaborate on Any Companies for WFO or WFH/Remote Work
+<!-- - 💬 Ask me about Programs -->
+📫 How to reach me: On My Instagram and Email
+😄 Pronouns: Him/Her
+<!-- - ⚡ Fun fact: I'm a old twinks brother -->
 
