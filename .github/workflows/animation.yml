@@ -16,39 +16,51 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # 1. Checkout repo (Penting untuk menghindari permission error di beberapa kasus)
+      # 1. Checkout
       - name: Checkout
         uses: actions/checkout@v3
 
-      # 2. Buat folder dist secara manual (Supaya tidak error saat move file)
+      # 2. Buat folder dist
       - name: Create dist directory
         run: mkdir -p dist
 
-      # 3. Generate Snake (Langsung ke folder dist)
+      # 3. Generate Snake (Ke folder dist)
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 4. Generate Pacman (Akan muncul di root folder dulu)
+      # 4. Generate Pacman (PERBAIKAN: Ditambah env token)
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+        env:
+          # Token ini WAJIB ada di sini agar action bisa ambil data profil
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
 
-      # 5. Pindahkan Pacman ke dist (Dengan pengecekan)
+      # 5. Debug: Cek file apa saja yang sebenarnya terbentuk
+      - name: List files (Debug)
+        run: ls -R
+
+      # 6. Pindahkan Pacman ke dist
       - name: Move Pacman to dist
         run: |
+          # Cek file dengan nama apapun yang berakhiran .svg selain snake
           if [ -f "pacman-contribution-graph.svg" ]; then
             mv pacman-contribution-graph.svg dist/
             echo "Sukses: File Pacman berhasil dipindahkan."
           else
-            echo "Error: File Pacman tidak ditemukan! Action pacman mungkin gagal generate."
+            echo "Error: File Pacman masih tidak ditemukan."
+            echo "Isi folder saat ini:"
+            ls -la
             exit 1
           fi
 
-      # 6. Push semua isi folder dist ke branch output
+      # 7. Upload ke branch output
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
