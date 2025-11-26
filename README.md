@@ -1,4 +1,5 @@
-![Sendy](img/github-header-banner.png)
+![Sendy1](img/github-header-banner.png)
+![Sendy2](img/Header%20Twitter%20Holi%20Natal%20Hijau.gif)
 ## Hello World I'm Sendy Prismana Nurferian👋
 
 <!--
@@ -41,5 +42,3 @@ Here are some ideas to get you started:
 #### Workspace Specs - Workflow Platforms
 <img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" /> <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" />
 
-
-![Sendy](img/Header%20Twitter%20Holi%20Natal%20Hijau.gif)
