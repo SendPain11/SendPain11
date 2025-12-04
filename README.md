@@ -59,8 +59,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SendPain11&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SendPain11&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-#### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SendPain11&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+<!-- #### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SendPain11&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4) -->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SendPain11&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
@@ -68,7 +68,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SendPain11&icon=9&color=13)](https://visitcount.itsvg.in)
 
-Proudly created with GPRM ( https://gprm.itsvg.in ) 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )  -->
 
 #### 🎓 Education
 <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" /> <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" /> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" /> 
