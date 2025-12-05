@@ -1,10 +1,16 @@
 <!-- ![Sendy1](img/github-header-banner.png) -->
-![Sendy2](img/Header%20Twitter%20Holi%20Natal%20Hijau.gif)
-## Hello World I'm Sendy Prismana Nurferian👋
+![Header Twitter Holi Natal Hijau](https://user-images.githubusercontent.com/84496427/199561242-e31afe84-cb2d-4adc-9ba8-ef1c5f362939.gif)
+<h1 align="center">Hello World <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Sendy Prismana 
+<h2 align="center">A passionate developer from Indonesia👌🏻</h2>
+<img src="https://user-images.githubusercontent.com/84496427/199562444-b65bee68-c570-47c3-aaec-3840f326aa2b.gif"></a>
+<!-- ## Hello World I'm Sendy Prismana Nurferian👋 -->
+<h3 align="left">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+<img src="https://readme-typing-svg.herokuapp.com?color=00000&width=380&height=45&lines=Computer+Engineering;Open-Source;Learning+In+Public;Gamers+and+Programmers;Humble+with+Others;Nice+To+Meet+You+...&center=true"></a>
+</h3>
 
-<div align="center">
-  <img height="247" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OW9ocDdlaGdrOWppNWtlNTdkcnVsN2gyazNranNkZGVzMHN1NXFvZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NNmJyVWriRDlS/giphy.gif"  />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SendPain11&label=Profile%20views&color=0e75b6&style=flat" alt="SendPain11" /> </p>
+
 
 ###
 
@@ -83,3 +89,8 @@
 ###
 
 <br clear="both">
+
+### Spotify Playing 🎧
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jbegnu1ttnxxl4qrimn7dvmym&unique={true|1|on|yes})
+
+<br />
