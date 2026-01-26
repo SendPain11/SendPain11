@@ -1,6 +1,6 @@
 <!-- ![Sendy1](img/github-header-banner.png) -->
 ![Header Twitter Holi Natal Hijau](https://user-images.githubusercontent.com/84496427/199561242-e31afe84-cb2d-4adc-9ba8-ef1c5f362939.gif)
-<h1 align="center">Hello World <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Sendy Prismana 
+<h1 align="center">Hello World <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Sendy Prismana Nurferian
 <h2 align="center">A passionate developer from Indonesia👌🏻</h2>
 <img src="https://user-images.githubusercontent.com/84496427/199562444-b65bee68-c570-47c3-aaec-3840f326aa2b.gif"></a>
 <!-- ## Hello World I'm Sendy Prismana Nurferian👋 -->
@@ -40,15 +40,15 @@
 
 <!-- 🌱 I’m currently learning **Python, Golang, DevOps** -->
 
-<!-- 👯 I’m looking to collaborate on Any Companies for WFO or WFH/Remote Work -->
+ - 👯 I’m looking to collaborate on Any Companies for WFO or WFH/Remote Work -->
 
-<!-- - 💬 Ask me about Programs -->
+ - 💬 Ask me about Programs 
 
 <!-- 📫 How to reach me: On My Instagram and Email -->
 
-<!-- 😄 Pronouns: Him/Her -->
+-- 😄 Pronouns: Him/Her --
 
-<!-- - ⚡ Fun fact: I'm a old twinks brother -->
+ - ⚡ Fun fact: I'm a old twinks brother 
 
 
 #### 💻 Tech Stack:
@@ -62,8 +62,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SendPain11&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SendPain11&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- #### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SendPain11&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4) -->
+- #### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SendPain11&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SendPain11&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
@@ -87,10 +87,3 @@
 <img src="https://raw.githubusercontent.com/SendPain11/SendPain11/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<br clear="both">
-
-### Spotify Playing 🎧
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jbegnu1ttnxxl4qrimn7dvmym&unique={true|1|on|yes})
-
-<br />
