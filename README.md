@@ -46,7 +46,7 @@
 
 <!-- 📫 How to reach me: On My Instagram and Email -->
 
--- 😄 Pronouns: Him/Her --
+ - 😄 Pronouns: Him/Her --
 
  - ⚡ Fun fact: I'm a old twinks brother 
 
