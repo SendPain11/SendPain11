@@ -1,0 +1,105 @@
+{
+  "$schema": "./profile.schema.json",
+  "profile": {
+    "name": "Sendy Prismana N",
+    "username": "SendPain11",
+    "headline": "Computer Engineering Student",
+    "affiliation": "Institut Teknologi Sepuluh Nopember",
+    "location": "Surabaya, Indonesia",
+    "status": "Learning / Building / Shipping",
+    "about": [
+      "I'm a Computer Engineering student at ITS who enjoys building full-stack web applications, experimenting with embedded systems, and exploring practical machine learning.",
+      "I like turning coursework and side ideas into working software, from scraping and dashboards to Arduino simulations, and learning the tools along the way."
+    ]
+  },
+  "research": {
+    "primary": "Full-Stack & Embedded",
+    "direction": "Practical software projects",
+    "themes": "Web apps / IoT / applied ML",
+    "narrative": "I care about building working systems end to end, whether that is a web app with a real backend, a simulated embedded circuit, or a small ML experiment, and learning by shipping."
+  },
+  "focus": [
+    {
+      "name": "Web Development",
+      "description": "Full-stack apps with REST APIs, dashboards, and data-driven features."
+    },
+    {
+      "name": "Embedded Systems",
+      "description": "Arduino and IoT projects, from prototyping to simulation."
+    },
+    {
+      "name": "Applied Machine Learning",
+      "description": "Exploring practical ML and computer vision use cases with Python."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Price Tracker",
+      "url": "https://github.com/SendPain11/ecommerce-price-tracker-using-python",
+      "homepage": "",
+      "focus": "Full-stack Python web app",
+      "summary": "Tracks product prices across e-commerce platforms using web scraping, a REST API backend, and an interactive dashboard.",
+      "heroLabel": "Full-stack build"
+    },
+    {
+      "name": "Wokwi Simulator",
+      "url": "https://github.com/SendPain11/Wokwi-Projects-Simulator",
+      "homepage": "",
+      "focus": "Arduino & embedded systems",
+      "summary": "A collection of Arduino projects simulated and tested with Wokwi.",
+      "heroLabel": "Embedded project"
+    }
+  ],
+  "techStack": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "C++",
+    "React",
+    "Next.js",
+    "FastAPI",
+    "Flask",
+    "MySQL",
+    "PostgreSQL",
+    "TensorFlow",
+    "Git"
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "value": "SendPain11",
+      "url": "https://github.com/SendPain11",
+      "logo": "github",
+      "color": "0B1220"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "sendy-prismana",
+      "url": "https://www.linkedin.com/in/sendy-prismana-nurferian-95a27b213/",
+      "logo": "linkedin",
+      "color": "0A66C2"
+    },
+    {
+      "label": "X",
+      "value": "gionzee_11",
+      "url": "https://twitter.com/gionzee_11",
+      "logo": "x",
+      "color": "000000"
+    },
+    {
+      "label": "Blog",
+      "value": "sendyprisma11",
+      "url": "https://sendyprisma11.blogspot.com",
+      "logo": "blogger",
+      "color": "FF5722"
+    }
+  ],
+  "activity": {
+    "enabled": true,
+    "limit": 6
+  },
+  "appearance": {
+    "palette": "ocean"
+  },
+  "footer": "Building practical projects and learning by shipping."
+}
