@@ -40,9 +40,9 @@
 
 <!-- 🌱 I’m currently learning **Python, Golang, DevOps** -->
 
- - 👯 I’m looking to collaborate on Any Companies for WFO or WFH/Remote Work -->
+ - 👯 I’m looking to collaborate on Any Companies for WFH/Remote Work -->
 
- - 💬 Ask me about Programs 
+<!-- 💬 Ask me about Programs -->
 
 <!-- 📫 How to reach me: On My Instagram and Email -->
 
