@@ -51,6 +51,14 @@ I care about building working systems end to end, whether that is a web app with
 _Recent public activity will appear here after the workflow runs._
 <!-- AUTO:ACTIVITY:END -->
 
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SendPain11/SendPain11/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SendPain11/SendPain11/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SendPain11/SendPain11/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 <p align="center">
