@@ -6,7 +6,7 @@
 <!-- ## Hello World I'm Sendy Prismana Nurferian👋 -->
 <h3 align="left">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-<img src="https://readme-typing-svg.herokuapp.com?color=00000&width=380&height=45&lines=Computer+Engineering;Open-Source;Learning+In+Public;Gamers+and+Programmers;Humble+with+Others;Nice+To+Meet+You+...&center=true"></a>
+<img src="https://readme-typing-svg.herokuapp.com?color=00000&width=380&height=45&lines=Computer+Engineering;Open-Source;Learning+In+Public;Gamers+and+Programmers;Nice+To+Meet+You+...&center=true"></a>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SendPain11&label=Profile%20views&color=0e75b6&style=flat" alt="SendPain11" /> </p>
