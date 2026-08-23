@@ -3,13 +3,13 @@
   "profile": {
     "name": "Sendy Prismana N",
     "username": "SendPain11",
-    "headline": "Computer Engineering Student",
-    "affiliation": "Institut Teknologi Sepuluh Nopember",
-    "location": "Surabaya, Indonesia",
-    "status": "Learning / Building / Shipping",
+    "headline": "Network Infrastructure Engineer",
+    "affiliation": "RSUD Syarifah Ambami Rato Ebu",
+    "location": "Bangkalan, Indonesia",
+    "status": "Working / Building / Shipping",
     "about": [
-      "I'm a Computer Engineering student at ITS who enjoys building full-stack web applications, experimenting with embedded systems, and exploring practical machine learning.",
-      "I like turning coursework and side ideas into working software, from scraping and dashboards to Arduino simulations, and learning the tools along the way."
+      "I'm a Network Infrastructure Engineer at RSUD Syarifah Ambami Rato Ebu, and a Computer Engineering graduate of ITS. I enjoy building full-stack web applications, experimenting with embedded systems, and exploring practical machine learning.",
+      "I like turning real-world problems into working software, from network systems to scraping, dashboards, and Arduino simulations, and learning the tools along the way."
     ]
   },
   "research": {
