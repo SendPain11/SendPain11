@@ -37,9 +37,9 @@ I like turning real-world problems into working software, from network systems t
 | [**Price Tracker**](https://github.com/SendPain11/ecommerce-price-tracker-using-python) | Full-stack Python web app | Tracks product prices across e-commerce platforms using web scraping, a REST API backend, and an interactive dashboard. |
 | [**Wokwi Simulator**](https://github.com/SendPain11/Wokwi-Projects-Simulator) | Arduino & embedded systems | A collection of Arduino projects simulated and tested with Wokwi. |
 
-## Research Direction
+## Current Role
 
-I care about building working systems end to end, whether that is a web app with a real backend, a simulated embedded circuit, or a small ML experiment, and learning by shipping.
+As a Network Infrastructure Engineer at RSUD Syarifah Ambami Rato Ebu, I maintain the hospital's LAN/WAN and servers, install and configure new network equipment, manage server redundancy, run the hospital information system (SIMRS), and handle day-to-day IT troubleshooting and support.
 
 ## Tech Stack
 
@@ -67,5 +67,5 @@ I care about building working systems end to end, whether that is a web app with
 ---
 
 <p align="center">
-  Building practical projects and learning by shipping.
+  Keeping hospital systems running, and building side projects along the way.
 </p>

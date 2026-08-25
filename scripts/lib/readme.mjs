@@ -92,7 +92,7 @@ ${renderFocus(config.focus)}
 
 ${renderProjects(config.projects)}
 
-## Research Direction
+## Current Role
 
 ${config.research.narrative}
 

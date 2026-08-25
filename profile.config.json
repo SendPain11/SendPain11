@@ -13,10 +13,10 @@
     ]
   },
   "research": {
-    "primary": "Full-Stack & Embedded",
-    "direction": "Practical software projects",
-    "themes": "Web apps / IoT / applied ML",
-    "narrative": "I care about building working systems end to end, whether that is a web app with a real backend, a simulated embedded circuit, or a small ML experiment, and learning by shipping."
+    "primary": "Network Infrastructure",
+    "direction": "Hospital IT systems",
+    "themes": "LAN/WAN / servers / SIMRS",
+    "narrative": "As a Network Infrastructure Engineer at RSUD Syarifah Ambami Rato Ebu, I maintain the hospital's LAN/WAN and servers, install and configure new network equipment, manage server redundancy, run the hospital information system (SIMRS), and handle day-to-day IT troubleshooting and support."
   },
   "focus": [
     {
@@ -101,5 +101,5 @@
   "appearance": {
     "palette": "ocean"
   },
-  "footer": "Building practical projects and learning by shipping."
+  "footer": "Keeping hospital systems running, and building side projects along the way."
 }
