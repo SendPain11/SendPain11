@@ -220,6 +220,9 @@ function createHeroSvg(config, colors, size, portrait) {
   const titleCenter = titlebar.x + titlebar.width / 2;
   const liveX = titlebar.x + titlebar.width - 138;
   const cursorY = layout.system.y + (profileLines.length - 1) * layout.system.lineHeight - 15;
+  const footerLine = profileLines[profileLines.length - 1];
+  const monoCharWidth = layout.system.fontSize * 0.6;
+  const cursorX = layout.system.x + (footerLine?.value?.length ?? 0) * monoCharWidth + 6;
   const terminalUser = config.profile.username.slice(0, isDesktop ? 22 : 14);
   const footerLabel = config.focus.slice(0, 3).map((item) => item.name.toUpperCase()).join(" / ").slice(0, 64);
 
@@ -263,7 +266,7 @@ ${isDesktop ? `<circle cx="${liveX}" cy="${titlebar.y + titlebar.height / 2}" r=
 ${ambientPortrait}
 <g clip-path="url(#portrait-clip)" mask="url(#portrait-reveal)"><text class="ascii">${ascii}</text></g>
 ${system.rows}
-<rect x="${layout.system.x + 2}" y="${cursorY}" width="9" height="${layout.system.fontSize + 2}" fill="${colors.cyan}" opacity="0"><animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.03;0.06;0.32;0.5;0.68;0.84;1" dur="1.4s" begin="3.3s" repeatCount="indefinite"/></rect>
+<rect x="${cursorX}" y="${cursorY}" width="9" height="${layout.system.fontSize + 2}" fill="${colors.cyan}" opacity="0"><animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.03;0.06;0.32;0.5;0.68;0.84;1" dur="1.4s" begin="3.3s" repeatCount="indefinite"/></rect>
 <text x="${layout.width / 2}" y="${layout.footerY}" text-anchor="middle" class="mono" font-size="10" letter-spacing="1.5" fill="${colors.muted}">${escapeXml(footerLabel)}</text>
 <rect x="3" y="3" width="${layout.width - 6}" height="${layout.height - 6}" rx="${layout.outerRadius - 2}" fill="none" stroke="url(#border)" stroke-width="2" opacity="0.76"><animate attributeName="opacity" values="0.5;0.94;0.5" dur="3.4s" repeatCount="indefinite"/></rect>
 </svg>`;
